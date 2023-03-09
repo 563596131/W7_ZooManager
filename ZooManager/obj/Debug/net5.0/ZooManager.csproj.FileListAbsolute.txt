@@ -5635,3 +5635,1254 @@
 /Users/lihongyi/Desktop/neu/2023Winter/Week7/6308C#/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/ZooManager.dll
 /Users/lihongyi/Desktop/neu/2023Winter/Week7/6308C#/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/ref/ZooManager.dll
 /Users/lihongyi/Desktop/neu/2023Winter/Week7/6308C#/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/ZooManager.pdb
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/blazor.boot.json
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/ZooManager.StaticWebAssets.xml
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/ZooManager.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/ZooManager.pdb
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/ZooManager.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/ZooManager.pdb
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/blazor.webassembly.js
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Authorization.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Components.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Components.Forms.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Components.Web.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Metadata.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Configuration.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Configuration.Binder.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Configuration.Json.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.DependencyInjection.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.FileProviders.Physical.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.FileSystemGlobbing.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Logging.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Options.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Primitives.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.JSInterop.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.JSInterop.WebAssembly.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.IO.Pipelines.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.CSharp.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.VisualBasic.Core.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.VisualBasic.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Win32.Primitives.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Win32.Registry.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.AppContext.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Buffers.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Collections.Concurrent.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Collections.Immutable.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Collections.NonGeneric.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Collections.Specialized.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Collections.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.Annotations.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.DataAnnotations.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.EventBasedAsync.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.Primitives.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.TypeConverter.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Configuration.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Console.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Core.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Data.Common.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Data.DataSetExtensions.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Data.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.Contracts.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.Debug.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.DiagnosticSource.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.FileVersionInfo.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.Process.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.StackTrace.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.TextWriterTraceListener.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.Tools.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.TraceSource.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.Tracing.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Drawing.Primitives.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Drawing.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Dynamic.Runtime.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Formats.Asn1.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Globalization.Calendars.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Globalization.Extensions.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Globalization.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.IO.Compression.Brotli.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.IO.Compression.FileSystem.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.IO.Compression.ZipFile.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.IO.Compression.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.IO.FileSystem.AccessControl.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.IO.FileSystem.DriveInfo.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.IO.FileSystem.Primitives.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.IO.FileSystem.Watcher.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.IO.FileSystem.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.IO.IsolatedStorage.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.IO.MemoryMappedFiles.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.IO.Pipes.AccessControl.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.IO.Pipes.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.IO.UnmanagedMemoryStream.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.IO.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Linq.Expressions.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Linq.Parallel.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Linq.Queryable.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Linq.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Memory.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.Http.Json.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.Http.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.HttpListener.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.Mail.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.NameResolution.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.NetworkInformation.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.Ping.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.Primitives.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.Requests.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.Security.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.ServicePoint.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.Sockets.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.WebClient.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.WebHeaderCollection.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.WebProxy.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.WebSockets.Client.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.WebSockets.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Numerics.Vectors.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Numerics.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.ObjectModel.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Private.DataContractSerialization.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Private.Runtime.InteropServices.JavaScript.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Private.Uri.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Private.Xml.Linq.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Private.Xml.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.DispatchProxy.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Emit.ILGeneration.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Emit.Lightweight.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Emit.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Extensions.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Metadata.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Primitives.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.TypeExtensions.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Resources.Reader.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Resources.ResourceManager.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Resources.Writer.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.CompilerServices.Unsafe.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.CompilerServices.VisualC.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Extensions.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Handles.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.InteropServices.RuntimeInformation.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.InteropServices.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Intrinsics.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Loader.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Numerics.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Serialization.Formatters.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Serialization.Json.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Serialization.Primitives.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Serialization.Xml.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Serialization.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Security.AccessControl.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Security.Claims.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.Algorithms.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.Cng.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.Csp.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.Encoding.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.OpenSsl.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.Primitives.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.X509Certificates.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Security.Principal.Windows.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Security.Principal.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Security.SecureString.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Security.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.ServiceModel.Web.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.ServiceProcess.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Text.Encoding.CodePages.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Text.Encoding.Extensions.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Text.Encoding.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Text.Encodings.Web.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Text.Json.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Text.RegularExpressions.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Channels.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Overlapped.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Tasks.Dataflow.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Tasks.Extensions.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Tasks.Parallel.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Tasks.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Thread.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Threading.ThreadPool.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Timer.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Threading.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Transactions.Local.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Transactions.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.ValueTuple.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Web.HttpUtility.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Web.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Windows.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Xml.Linq.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Xml.ReaderWriter.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Xml.Serialization.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Xml.XDocument.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Xml.XPath.XDocument.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Xml.XPath.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Xml.XmlDocument.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Xml.XmlSerializer.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Xml.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/WindowsBase.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/mscorlib.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/netstandard.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Private.CoreLib.dll.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/dotnet.timezones.blat.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/dotnet.wasm.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/icudt.dat.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/icudt_CJK.dat.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/icudt_EFIGS.dat.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/icudt_no_CJK.dat.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/dotnet.5.0.17.js.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Authorization.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Components.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Components.Forms.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Components.Web.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Components.WebAssembly.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Metadata.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Configuration.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Configuration.Binder.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Configuration.FileExtensions.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Configuration.Json.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.FileProviders.Abstractions.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.FileProviders.Physical.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.FileSystemGlobbing.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Logging.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Options.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Primitives.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.JSInterop.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.JSInterop.WebAssembly.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.IO.Pipelines.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.CSharp.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.VisualBasic.Core.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.VisualBasic.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Win32.Primitives.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Win32.Registry.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.AppContext.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Buffers.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Collections.Concurrent.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Collections.Immutable.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Collections.NonGeneric.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Collections.Specialized.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Collections.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.Annotations.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.DataAnnotations.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.EventBasedAsync.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.Primitives.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.TypeConverter.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Configuration.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Console.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Core.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Data.Common.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Data.DataSetExtensions.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Data.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.Contracts.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.Debug.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.DiagnosticSource.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.FileVersionInfo.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.Process.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.StackTrace.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.TextWriterTraceListener.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.Tools.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.TraceSource.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.Tracing.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Drawing.Primitives.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Drawing.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Dynamic.Runtime.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Formats.Asn1.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Globalization.Calendars.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Globalization.Extensions.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Globalization.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.IO.Compression.Brotli.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.IO.Compression.FileSystem.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.IO.Compression.ZipFile.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.IO.Compression.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.IO.FileSystem.AccessControl.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.IO.FileSystem.DriveInfo.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.IO.FileSystem.Primitives.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.IO.FileSystem.Watcher.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.IO.FileSystem.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.IO.IsolatedStorage.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.IO.MemoryMappedFiles.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.IO.Pipes.AccessControl.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.IO.Pipes.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.IO.UnmanagedMemoryStream.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.IO.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Linq.Expressions.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Linq.Parallel.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Linq.Queryable.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Linq.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Memory.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.Http.Json.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.Http.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.HttpListener.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.Mail.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.NameResolution.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.NetworkInformation.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.Ping.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.Primitives.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.Requests.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.Security.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.ServicePoint.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.Sockets.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.WebClient.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.WebHeaderCollection.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.WebProxy.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.WebSockets.Client.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.WebSockets.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Numerics.Vectors.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Numerics.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.ObjectModel.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Private.DataContractSerialization.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Private.Runtime.InteropServices.JavaScript.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Private.Uri.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Private.Xml.Linq.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Private.Xml.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.DispatchProxy.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Emit.ILGeneration.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Emit.Lightweight.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Emit.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Extensions.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Metadata.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Primitives.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.TypeExtensions.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Resources.Reader.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Resources.ResourceManager.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Resources.Writer.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.CompilerServices.Unsafe.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.CompilerServices.VisualC.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Extensions.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Handles.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.InteropServices.RuntimeInformation.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.InteropServices.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Intrinsics.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Loader.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Numerics.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Serialization.Formatters.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Serialization.Json.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Serialization.Primitives.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Serialization.Xml.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Serialization.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Security.AccessControl.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Security.Claims.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.Algorithms.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.Cng.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.Csp.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.Encoding.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.OpenSsl.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.Primitives.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.X509Certificates.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Security.Principal.Windows.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Security.Principal.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Security.SecureString.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Security.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.ServiceModel.Web.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.ServiceProcess.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Text.Encoding.CodePages.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Text.Encoding.Extensions.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Text.Encoding.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Text.Encodings.Web.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Text.Json.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Text.RegularExpressions.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Channels.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Overlapped.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Tasks.Dataflow.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Tasks.Extensions.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Tasks.Parallel.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Tasks.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Thread.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Threading.ThreadPool.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Timer.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Threading.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Transactions.Local.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Transactions.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.ValueTuple.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Web.HttpUtility.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Web.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Windows.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Xml.Linq.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Xml.ReaderWriter.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Xml.Serialization.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Xml.XDocument.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Xml.XPath.XDocument.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Xml.XPath.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Xml.XmlDocument.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Xml.XmlSerializer.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Xml.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/WindowsBase.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/mscorlib.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/netstandard.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Private.CoreLib.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/dotnet.timezones.blat
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/dotnet.wasm
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/icudt.dat
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/icudt_CJK.dat
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/icudt_EFIGS.dat
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/icudt_no_CJK.dat
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/bin/Debug/net5.0/wwwroot/_framework/dotnet.5.0.17.js
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/ZooManager.csproj.AssemblyReference.cache
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/ZooManager.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/ZooManager.AssemblyInfoInputs.cache
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/ZooManager.AssemblyInfo.cs
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/ZooManager.csproj.CoreCompileInputs.cache
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/ZooManager.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/ZooManager.RazorComponent.input.cache
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/RazorDeclaration/App.razor.g.cs
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/RazorDeclaration/Pages/Index.razor.g.cs
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/RazorDeclaration/_Imports.razor.g.cs
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/RazorDeclaration/Shared/MainLayout.razor.g.cs
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/ZooManager.RazorComponent.output.cache
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/RazorDeclaration/ZooManager.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/ZooManager.TagHelpers.input.cache
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/ZooManager.TagHelpers.output.cache
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/ZooManager.RazorCoreGenerate.cache
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/Razor/App.razor.g.cs
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/Razor/Pages/Index.razor.g.cs
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/Razor/_Imports.razor.g.cs
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/Razor/Shared/MainLayout.razor.g.cs
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/4vVRE5AC.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/tz+FGU+l.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/41JMIZoz.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/0MSUs14H.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/ITdXfp7q.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/wPkDvln1.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/DzDUvOaH.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/PQLJ9jeD.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/K5ir4QdK.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/2sTsKPyY.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/D7MhN4xS.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/D5rFbauB.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/Iz6Aj+au.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/medXJmom.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/qxOAfAV6.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/YUhlhC+x.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/RhTJWZGG.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/um4Q5olN.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/8vSwoJKj.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/fq6Kp7uk.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/wY8e0Qu1.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/2lYiVMap.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/nW9ZZlvl.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/GHq5ueKl.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/GKG+DWqb.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/eL6GSdbh.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/pEheLOxt.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/5Uo3DTHy.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/9M+cjsBz.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/IiO61X7C.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/vbGKZ1Wp.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/kt1O6n5i.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/Dbm5Na2+.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/lTJsyPk6.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/deWjfpEg.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/EWVSWs4v.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/OKUwFeyx.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/pA7GPEp3.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/KUeQjBrY.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/jEKtcmHA.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/+R8XUvgI.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/TisjTpBL.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/XBrZ7SIO.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/euMW2Az8.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/3TLjQIfZ.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/9vtcPxml.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/HdNOBCz4.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/wu8GE+sv.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/97l9wnsc.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/x4BhMvqr.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/ECrhjqOd.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/3GEQbL87.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/aQ9Vatdi.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/gV8AxAp0.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/x3A6i8xA.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/RmMbqK9u.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/qomAd7+N.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/ZW3jFka+.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/ZOk9MV+O.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/GBP+DuAi.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/OAQBooYR.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/15zxTYYY.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/CA724qbg.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/PcRd8k+u.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/QJ92Xz+3.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/85zVsBhc.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/U6OFTTMU.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/h1HImmgU.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/fJVEHXao.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/tFxK96p1.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/tBIn9sr2.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/L+M+n2Aa.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/iSx61+DA.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/DFaevjMT.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/M7pSvVkv.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/f5ikXye8.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/xj1U3sDN.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/2RTuITE+.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/lSn+EoBT.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/jvrTqNgi.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/5Td9NfOj.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/++9mUpZX.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/TJCghN4H.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/++RH2Tfl.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/1rySautE.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/jROKB+3D.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/yvu2XyuY.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/P8gtH6pD.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/TVCmy9TX.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/xDxaoU4q.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/bRlqsOYm.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/wlP+WE5r.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/Kw2PIJEU.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/pLRY2vZr.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/NWb5z8HA.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/mZYB77Ht.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/OxQqEjwI.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/xdeyFqi+.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/7xB9KkCJ.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/GnMFSO9n.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/WMxdA5o1.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/EJLkfm0h.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/dy2L7cvd.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/Xh0k+Oal.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/H+IjCoLR.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/2d1nur9X.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/2bvG8GMH.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/EzhIBrQ9.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/FwstxGEq.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/Ea6kZxWC.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/rJz+wxpS.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/N+NwgMY2.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/wevXG63P.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/LpJE04rN.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/PnOFU+U6.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/rR8gteIx.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/jdfVRCur.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/O4olRvWm.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/iG3XNDW5.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/+yRr63Gu.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/DPtZSUw1.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/g48g+ody.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/+B8J9AgX.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/6lJL9AFt.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/Dt+gCgHX.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/p0GuGHgU.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/Ihn2b+c1.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/8OWL+AGF.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/v8516HM4.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/0MzCYhxf.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/mK+HsN5+.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/xYACpmnz.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/KENhXshg.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/cOAlNOwL.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/2TnZkir1.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/QAVItVaw.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/beYvBuB+.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/tffbZLc3.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/kcOTz0XD.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/wL0aXgPh.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/XUUOn0hf.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/PIr0st+4.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/KLIPoEiq.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/hauvtDvW.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/+yv+a51N.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/E1PdaKoS.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/wj3+sYCc.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/FG4p7ic3.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/U5Vv8xVW.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/+2XGOBuX.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/jf5wquZK.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/U9F1CMUR.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/QqfGUERa.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/avqlfZY8.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/zfQtOsev.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/w53zxALv.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/Z2E1ItpZ.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/rnYc56iE.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/jfnFn5ot.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/La37IHHw.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/mn0Sw3r+.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/lHkfjA9I.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/6S+ytUhi.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/PDnjibEh.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/McwPc0z+.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/J6UCjJ+m.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/W+1SJQNq.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/MAbCgwU5.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/2bEsrpC2.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/RYqXSYyP.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/nE+ntPdr.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/2WDr7YhX.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/GqMspZCq.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/3oqjqmnJ.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/lwdANtm+.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/Wt5clNeN.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/SuaoNOq4.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/FZOx1z7q.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/+9SViBDc.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/6O++edfz.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/f40Zco8a.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/cxg3McB+.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/XZgiIsVB.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/1M28n73W.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/Lfjhmy7m.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/gaCaf9QX.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/hhKeKZwx.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/MFhdHkBt.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/+3mFRKds.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/9kEn9+9C.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/DhLuOz+g.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/p1YcCVsn.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/jsdnwJWS.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/9yduWn8N.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/build-gz/zAqSo3gO.gz
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/scopedcss/bundle/ZooManager.styles.css
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/scopedcss/projectbundle/ZooManager.bundle.scp.css
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/staticwebassets/ZooManager.StaticWebAssets.Manifest.cache
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/staticwebassets/ZooManager.StaticWebAssets.Pack.cache
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/staticwebassets/msbuild.ZooManager.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/staticwebassets/msbuild.build.ZooManager.props
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/staticwebassets/msbuild.buildMultiTargeting.ZooManager.props
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/staticwebassets/msbuild.buildTransitive.ZooManager.props
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/staticwebassets/ZooManager.StaticWebAssets.xml
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/ZooManager.RazorTargetAssemblyInfo.cache
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/ZooManager.csproj.CopyComplete
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/ZooManager.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/refint/ZooManager.dll
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/ZooManager.pdb
+C:/Users/qqice/OneDrive - Haze/文档/Tencent Files/2509303413/FileRecv/W7_ZooManager_HW/ZooManager/obj/Debug/net5.0/ref/ZooManager.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/blazor.boot.json
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/ZooManager.StaticWebAssets.xml
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/ZooManager.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/ref/ZooManager.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/ZooManager.pdb
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/ZooManager.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/ZooManager.pdb
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/blazor.webassembly.js
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Authorization.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Components.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Components.Forms.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Components.Web.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Metadata.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Configuration.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Configuration.Abstractions.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Configuration.Binder.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Configuration.Json.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.DependencyInjection.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.FileProviders.Physical.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.FileSystemGlobbing.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Logging.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Logging.Abstractions.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Options.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Primitives.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.JSInterop.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.JSInterop.WebAssembly.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.IO.Pipelines.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.CSharp.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.VisualBasic.Core.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.VisualBasic.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Win32.Primitives.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Win32.Registry.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.AppContext.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Buffers.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Collections.Concurrent.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Collections.Immutable.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Collections.NonGeneric.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Collections.Specialized.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Collections.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.Annotations.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.DataAnnotations.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.EventBasedAsync.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.Primitives.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.TypeConverter.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Configuration.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Console.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Core.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Data.Common.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Data.DataSetExtensions.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Data.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.Contracts.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.Debug.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.DiagnosticSource.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.FileVersionInfo.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.Process.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.StackTrace.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.TextWriterTraceListener.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.Tools.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.TraceSource.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.Tracing.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Drawing.Primitives.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Drawing.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Dynamic.Runtime.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Formats.Asn1.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Globalization.Calendars.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Globalization.Extensions.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Globalization.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.IO.Compression.Brotli.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.IO.Compression.FileSystem.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.IO.Compression.ZipFile.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.IO.Compression.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.IO.FileSystem.AccessControl.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.IO.FileSystem.DriveInfo.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.IO.FileSystem.Primitives.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.IO.FileSystem.Watcher.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.IO.FileSystem.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.IO.IsolatedStorage.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.IO.MemoryMappedFiles.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.IO.Pipes.AccessControl.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.IO.Pipes.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.IO.UnmanagedMemoryStream.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.IO.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Linq.Expressions.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Linq.Parallel.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Linq.Queryable.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Linq.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Memory.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.Http.Json.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.Http.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.HttpListener.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.Mail.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.NameResolution.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.NetworkInformation.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.Ping.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.Primitives.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.Requests.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.Security.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.ServicePoint.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.Sockets.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.WebClient.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.WebHeaderCollection.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.WebProxy.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.WebSockets.Client.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.WebSockets.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Numerics.Vectors.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Numerics.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.ObjectModel.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Private.DataContractSerialization.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Private.Runtime.InteropServices.JavaScript.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Private.Uri.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Private.Xml.Linq.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Private.Xml.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.DispatchProxy.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Emit.ILGeneration.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Emit.Lightweight.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Emit.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Extensions.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Metadata.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Primitives.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.TypeExtensions.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Resources.Reader.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Resources.ResourceManager.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Resources.Writer.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.CompilerServices.Unsafe.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.CompilerServices.VisualC.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Extensions.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Handles.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.InteropServices.RuntimeInformation.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.InteropServices.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Intrinsics.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Loader.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Numerics.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Serialization.Formatters.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Serialization.Json.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Serialization.Primitives.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Serialization.Xml.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Serialization.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Security.AccessControl.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Security.Claims.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.Algorithms.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.Cng.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.Csp.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.Encoding.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.OpenSsl.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.Primitives.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.X509Certificates.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Security.Principal.Windows.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Security.Principal.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Security.SecureString.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Security.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.ServiceModel.Web.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.ServiceProcess.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Text.Encoding.CodePages.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Text.Encoding.Extensions.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Text.Encoding.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Text.Encodings.Web.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Text.Json.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Text.RegularExpressions.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Channels.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Overlapped.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Tasks.Dataflow.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Tasks.Extensions.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Tasks.Parallel.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Tasks.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Thread.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Threading.ThreadPool.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Timer.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Threading.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Transactions.Local.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Transactions.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.ValueTuple.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Web.HttpUtility.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Web.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Windows.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Xml.Linq.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Xml.ReaderWriter.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Xml.Serialization.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Xml.XDocument.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Xml.XPath.XDocument.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Xml.XPath.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Xml.XmlDocument.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Xml.XmlSerializer.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Xml.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/WindowsBase.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/mscorlib.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/netstandard.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Private.CoreLib.dll.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/dotnet.timezones.blat.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/dotnet.wasm.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/icudt.dat.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/icudt_CJK.dat.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/icudt_EFIGS.dat.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/icudt_no_CJK.dat.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/dotnet.5.0.17.js.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Authorization.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Components.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Components.Forms.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Components.Web.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Components.WebAssembly.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Metadata.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Configuration.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Configuration.Binder.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Configuration.Json.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.DependencyInjection.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Logging.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Options.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Primitives.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.JSInterop.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.JSInterop.WebAssembly.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.IO.Pipelines.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.CSharp.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.VisualBasic.Core.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.VisualBasic.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Win32.Primitives.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Win32.Registry.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.AppContext.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Buffers.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Collections.Concurrent.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Collections.Immutable.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Collections.NonGeneric.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Collections.Specialized.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Collections.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.Annotations.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.DataAnnotations.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.EventBasedAsync.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.Primitives.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.TypeConverter.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Configuration.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Console.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Core.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Data.Common.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Data.DataSetExtensions.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Data.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.Contracts.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.Debug.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.DiagnosticSource.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.FileVersionInfo.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.Process.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.StackTrace.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.TextWriterTraceListener.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.Tools.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.TraceSource.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.Tracing.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Drawing.Primitives.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Drawing.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Dynamic.Runtime.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Formats.Asn1.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Globalization.Calendars.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Globalization.Extensions.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Globalization.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.IO.Compression.Brotli.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.IO.Compression.FileSystem.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.IO.Compression.ZipFile.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.IO.Compression.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.IO.FileSystem.AccessControl.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.IO.FileSystem.DriveInfo.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.IO.FileSystem.Primitives.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.IO.FileSystem.Watcher.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.IO.FileSystem.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.IO.IsolatedStorage.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.IO.MemoryMappedFiles.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.IO.Pipes.AccessControl.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.IO.Pipes.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.IO.UnmanagedMemoryStream.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.IO.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Linq.Expressions.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Linq.Parallel.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Linq.Queryable.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Linq.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Memory.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.Http.Json.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.Http.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.HttpListener.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.Mail.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.NameResolution.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.NetworkInformation.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.Ping.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.Primitives.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.Requests.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.Security.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.ServicePoint.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.Sockets.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.WebClient.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.WebHeaderCollection.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.WebProxy.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.WebSockets.Client.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.WebSockets.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Net.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Numerics.Vectors.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Numerics.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.ObjectModel.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Private.DataContractSerialization.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Private.Runtime.InteropServices.JavaScript.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Private.Uri.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Private.Xml.Linq.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Private.Xml.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.DispatchProxy.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Emit.ILGeneration.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Emit.Lightweight.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Emit.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Extensions.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Metadata.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Primitives.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.TypeExtensions.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Resources.Reader.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Resources.ResourceManager.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Resources.Writer.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.CompilerServices.Unsafe.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.CompilerServices.VisualC.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Extensions.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Handles.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.InteropServices.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Intrinsics.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Loader.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Numerics.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Serialization.Formatters.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Serialization.Json.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Serialization.Primitives.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Serialization.Xml.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Serialization.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Security.AccessControl.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Security.Claims.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.Algorithms.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.Cng.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.Csp.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.Encoding.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.OpenSsl.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.Primitives.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.X509Certificates.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Security.Principal.Windows.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Security.Principal.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Security.SecureString.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Security.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.ServiceModel.Web.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.ServiceProcess.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Text.Encoding.CodePages.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Text.Encoding.Extensions.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Text.Encoding.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Text.Encodings.Web.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Text.Json.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Text.RegularExpressions.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Channels.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Overlapped.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Tasks.Dataflow.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Tasks.Extensions.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Tasks.Parallel.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Tasks.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Thread.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Threading.ThreadPool.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Timer.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Threading.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Transactions.Local.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Transactions.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.ValueTuple.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Web.HttpUtility.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Web.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Windows.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Xml.Linq.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Xml.ReaderWriter.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Xml.Serialization.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Xml.XDocument.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Xml.XPath.XDocument.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Xml.XPath.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Xml.XmlDocument.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Xml.XmlSerializer.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Xml.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/WindowsBase.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/mscorlib.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/netstandard.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/System.Private.CoreLib.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/dotnet.timezones.blat
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/dotnet.wasm
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/icudt.dat
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/icudt_CJK.dat
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/icudt_EFIGS.dat
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/icudt_no_CJK.dat
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/bin/Debug/net5.0/wwwroot/_framework/dotnet.5.0.17.js
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/ZooManager.csproj.AssemblyReference.cache
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/ZooManager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/ZooManager.AssemblyInfoInputs.cache
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/ZooManager.AssemblyInfo.cs
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/ZooManager.csproj.CoreCompileInputs.cache
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/ZooManager.MvcApplicationPartsAssemblyInfo.cache
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/ZooManager.RazorComponent.input.cache
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/RazorDeclaration/App.razor.g.cs
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/RazorDeclaration/Pages/Index.razor.g.cs
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/RazorDeclaration/_Imports.razor.g.cs
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/RazorDeclaration/Shared/MainLayout.razor.g.cs
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/ZooManager.RazorComponent.output.cache
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/RazorDeclaration/ZooManager.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/ZooManager.TagHelpers.input.cache
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/ZooManager.TagHelpers.output.cache
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/ZooManager.RazorCoreGenerate.cache
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/Razor/App.razor.g.cs
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/Razor/Pages/Index.razor.g.cs
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/Razor/_Imports.razor.g.cs
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/Razor/Shared/MainLayout.razor.g.cs
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/BsL4Ydok.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/9SK4SGBw.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/W014G9sh.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/h+H+Wxwq.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/Vbo3T8+3.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/75vi+eJ5.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/qvlyQZeJ.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/Wu+huZcH.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/4zcp1Tt9.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/TkCmvN+U.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/ZErC851F.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/VjdtxO4s.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/MVYHEZcx.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/cEP0GH7E.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/DsMoYxrm.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/HaU3Fyqf.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/rV4ZIU0+.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/FtKy7J9M.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/Vj7suSOT.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/1CDYQwiR.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/1lkInbx5.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/SrutyVsi.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/WreI40Ry.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/TZIevREt.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/cPHmNfsl.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/QCW6SGJh.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/LFeideBV.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/xhNz8Vqp.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/2BWR+A3Z.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/vyid+e2U.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/K5hjtX++.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/51FAJNYg.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/nwafc9Tb.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/KCQgynVQ.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/eO9FG7qp.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/GOzSXf6r.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/dvnA+IlG.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/bja2+2+p.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/NOSvqXNB.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/azTp2Rd9.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/Jgxk52Nl.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/GC2n5A92.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/6y8clEIQ.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/N16puWeA.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/JoPzfZe0.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/y3teyb2R.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/fqtJXbpj.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/lZBrYKdM.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/QDeBb+tk.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/4HPYJN6K.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/idzh4fSU.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/OMXgmuyA.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/BpP3UIo3.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/c7JDrfF0.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/+616tWdo.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/LNE3h0S7.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/0Uyteydl.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/6+SeYrZH.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/sDYi6Ip+.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/YD2VwMMr.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/K5bNlpo1.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/PsqTrxFa.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/sd3aEtab.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/t0GdxxMC.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/3l4x1FD7.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/ElyXyC5g.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/JSfWwX8i.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/+EHqgc30.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/Ry7RTUB+.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/aDq+mz8y.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/+GNpPW86.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/Uqp1tgNw.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/qew+2X+Y.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/Wo5NMGsy.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/DfVg3Wec.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/Y6fMa+em.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/KuClTX5H.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/Y1C0dUgd.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/bNnD4mPN.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/DLnt8E5E.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/ewfaAxCg.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/bI3vjjRx.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/tDlJZU5E.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/8QIWuTWQ.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/sJ8r2t4H.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/3BGBAXq5.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/j6orGZ6i.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/LygSFGbS.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/C8OW+Ltw.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/b+U2pWVF.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/VIGEHCA9.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/8BsHDtxT.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/uXPZ+eYT.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/aP3esA+O.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/Dv22D6g5.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/hHTti1nz.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/fb3BuCkP.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/w8Ec6TPK.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/75Df+qCm.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/NZ4T14Gn.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/NWL7c8UR.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/Pt+IM8oD.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/om+2ULaD.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/v6rbRsQm.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/PpW9wvdH.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/pXqdaReT.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/1CpGFYn5.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/XRBuL5Lr.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/So8Oe1PD.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/4Fd+E72i.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/SFIo555x.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/6lLvalDR.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/GzWt1RPd.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/IcdaSdXl.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/5lCMnN2A.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/RsCOQu++.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/kOokVp4w.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/gA705yg+.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/cMTIl2sZ.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/4eYpUTMu.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/uPNpN9Z3.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/Hv0TMgd1.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/VtNm6mCf.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/iWMOuYoP.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/yD56p20M.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/8ukONS4N.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/sRAbNrsM.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/f3u5PhTj.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/iUucqg+9.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/CgxquDgu.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/esBysQ7G.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/nj52s4Zm.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/Okz0nCuR.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/Y7Q+iVv0.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/4FgOMUMO.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/MuRi2spq.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/rw+ylDJV.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/cNRFijjT.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/BpCvqGmr.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/qvZ5yh+A.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/OXp6iLok.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/JB9bwbRs.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/Q1XloUF4.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/cGFv8h2i.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/7kSHhX0J.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/jxcHtZYs.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/xB28A5IM.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/DRVi1YgC.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/q0ifuVPS.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/A+ohPvQQ.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/Rc1iyI+2.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/7QYQi6Wg.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/94I9dnke.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/V6Tdm0yd.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/88O+7i1a.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/7blF5eOx.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/0hFLtD35.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/7zOBCFfr.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/iq+nJBB7.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/d0WmHu4U.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/BgnBQE5I.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/oV+IB5tN.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/ontFpaOj.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/gIrhEogI.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/2DlXN60I.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/YFrlqt4x.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/0GbKB1T3.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/cbCyXSyC.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/Dxu3om+q.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/ZasQxtJo.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/lTQbReGU.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/x30PHwy9.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/lSvtGXyf.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/rwfb7FIG.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/V88jU9pK.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/RXD3zc+v.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/NPbgAb0m.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/0+u5+0Hp.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/gMSvsW9x.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/ukm5ZaX4.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/oSTDKMaN.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/wtdSHn13.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/qjFGsUUk.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/ixRuK2fy.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/S+uXrPpe.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/KsJZjcnx.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/LtaAJW1z.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/JyfGubQu.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/J5XGbEOa.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/SEQSs3Gi.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/cJw2erw8.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/mIOwOtQK.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/eoaJQuws.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/U75Lx1F2.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/build-gz/qGQavSI3.gz
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/staticwebassets/ZooManager.StaticWebAssets.Manifest.cache
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/staticwebassets/ZooManager.StaticWebAssets.xml
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/scopedcss/bundle/ZooManager.styles.css
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/scopedcss/projectbundle/ZooManager.bundle.scp.css
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/ZooManager.RazorTargetAssemblyInfo.cache
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/ZooManager.csproj.CopyComplete
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/ZooManager.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/ref/ZooManager.dll
+/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/obj/Debug/net5.0/ZooManager.pdb

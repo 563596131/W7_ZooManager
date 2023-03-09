@@ -90,28 +90,41 @@ namespace ZooManager
         static public void AddAnimalToHolding(string animalType)
         {
             if (holdingPen.occupant != null) return;
-            if (animalType == "cat") holdingPen.occupant = new Cat("Fluffy");
+            if (animalType == "cat") (holdingPen.occupant) = new Cat("Fluffy");
             if (animalType == "mouse") holdingPen.occupant = new Mouse("Squeaky");
             if (animalType == "raptor") holdingPen.occupant = new Raptor("Fumming");
             if (animalType == "chick") holdingPen.occupant = new Chick("Tweet");
+            if (animalType == "alien") holdingPen.occupant = new Alien("E.T.");
             Console.WriteLine($"Holding pen occupant at {holdingPen.occupant.location.x},{holdingPen.occupant.location.y}");
-            //ActivateAnimals();
+            //ActivateAnimals(); // common this line so that do not active when hold animal
         }
-
+        /* Feature O //HL
+         * Fix the movement bug so that all creatures now command activate once every 
+         * turn and every action, and only act once
+         */
         static public void ActivateAnimals()
         {
-            for (var r = 1; r < 11; r++) // reaction times from 1 to 10
+            for (var r = 0; r < 11; r++) // reaction times from 0 to 10
             {
                 for (var y = 0; y < numCellsY; y++)
                 {
                     for (var x = 0; x < numCellsX; x++)
                     {
                         var zone = animalZones[y][x];
-                        if (zone.occupant != null && zone.occupant.reactionTime == r)
+                        if (zone.occupant != null && zone.occupant.reactionTime == r && !zone.occupant.Moved)
                         {
+                            zone.occupant.Moved = true;
                             zone.occupant.Activate();
                         }
                     }
+                }
+            }
+            for (var y = 0; y < numCellsY; y++)
+            {
+                for (var x = 0; x < numCellsX; x++)
+                {
+                    var zone = animalZones[y][x];
+                    if (zone.occupant != null) zone.occupant.Moved = false;
                 }
             }
         }

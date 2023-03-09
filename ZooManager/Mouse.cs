@@ -1,7 +1,7 @@
 ﻿using System;
 namespace ZooManager
 {
-    public class Mouse : Animal
+    public class Mouse : Animal, Prey
     {
         public Mouse(string name)
         {
@@ -9,16 +9,22 @@ namespace ZooManager
             species = "mouse";
             this.name = name; // "this" to clarify instance vs. method parameter
             reactionTime = new Random().Next(1, 4); // reaction time of 1 (fast) to 3
+            
             /* Note that Mouse reactionTime range is smaller than Cat reactionTime,
              * so mice are more likely to react to their surroundings faster than cats!
              */
         }
 
+        public void AutoFlee()
+        {
+            Flee("cat");
+        }
+        
         public override void Activate()
         {
             base.Activate();
             Console.WriteLine("I am a mouse. Squeak.");
-            Flee("cat"); //HL
+            AutoFlee();
         }
 
         /* Note that our mouse is (so far) a teeny bit more strategic than our cat.

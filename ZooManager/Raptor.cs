@@ -7,7 +7,7 @@ namespace ZooManager
      * A new subclass of class Bird 
      * Has all the properties of the "grandfather" class Animal
      */
-    public class Raptor : Bird
+    public class Raptor : Bird, Predator
     {
         public Raptor(string name)
         {
@@ -16,12 +16,16 @@ namespace ZooManager
             this.name = name;
             reactionTime = 1; // reaction time 1 (fast)
         }
-
+        
+        public void AutoHunt()
+        {
+            DoubleHunt("cat", "mouse"); // will hunt both cat and mouse
+        }
         public override void Activate()
         {
             base.Activate();
             Console.WriteLine("I am a raptor. Humming.");
-            DoubleHunt("cat", "mouse"); // will hunt both cat and mouse
+            AutoHunt();
         }
     }
 }

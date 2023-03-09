@@ -13,70 +13,70 @@ namespace ZooManager.Pages
     using System.Threading.Tasks;
     using Microsoft.AspNetCore.Components;
 #nullable restore
-#line 1 "/Users/lihongyi/Desktop/neu/2023Winter/Week7/6308C#/W7_ZooManager_HW/ZooManager/_Imports.razor"
+#line 1 "/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/_Imports.razor"
 using System.Net.Http;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 2 "/Users/lihongyi/Desktop/neu/2023Winter/Week7/6308C#/W7_ZooManager_HW/ZooManager/_Imports.razor"
+#line 2 "/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/_Imports.razor"
 using System.Net.Http.Json;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 3 "/Users/lihongyi/Desktop/neu/2023Winter/Week7/6308C#/W7_ZooManager_HW/ZooManager/_Imports.razor"
+#line 3 "/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/_Imports.razor"
 using Microsoft.AspNetCore.Components.Forms;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 4 "/Users/lihongyi/Desktop/neu/2023Winter/Week7/6308C#/W7_ZooManager_HW/ZooManager/_Imports.razor"
+#line 4 "/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/_Imports.razor"
 using Microsoft.AspNetCore.Components.Routing;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 5 "/Users/lihongyi/Desktop/neu/2023Winter/Week7/6308C#/W7_ZooManager_HW/ZooManager/_Imports.razor"
+#line 5 "/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/_Imports.razor"
 using Microsoft.AspNetCore.Components.Web;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 6 "/Users/lihongyi/Desktop/neu/2023Winter/Week7/6308C#/W7_ZooManager_HW/ZooManager/_Imports.razor"
+#line 6 "/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/_Imports.razor"
 using Microsoft.AspNetCore.Components.Web.Virtualization;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 7 "/Users/lihongyi/Desktop/neu/2023Winter/Week7/6308C#/W7_ZooManager_HW/ZooManager/_Imports.razor"
+#line 7 "/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/_Imports.razor"
 using Microsoft.AspNetCore.Components.WebAssembly.Http;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 8 "/Users/lihongyi/Desktop/neu/2023Winter/Week7/6308C#/W7_ZooManager_HW/ZooManager/_Imports.razor"
+#line 8 "/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/_Imports.razor"
 using Microsoft.JSInterop;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 10 "/Users/lihongyi/Desktop/neu/2023Winter/Week7/6308C#/W7_ZooManager_HW/ZooManager/_Imports.razor"
+#line 10 "/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/_Imports.razor"
 using ZooManager.Shared;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 2 "/Users/lihongyi/Desktop/neu/2023Winter/Week7/6308C#/W7_ZooManager_HW/ZooManager/Pages/Index.razor"
+#line 2 "/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/Pages/Index.razor"
 using ZooManager;
 
 #line default
@@ -91,7 +91,7 @@ using ZooManager;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 155 "/Users/lihongyi/Desktop/neu/2023Winter/Week7/6308C#/W7_ZooManager_HW/ZooManager/Pages/Index.razor"
+#line 161 "/Users/lihongyi/Downloads/W7_ZooManager_HW (3)/ZooManager/Pages/Index.razor"
        
     protected override void OnInitialized()
     {

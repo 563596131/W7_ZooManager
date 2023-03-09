@@ -2,7 +2,7 @@
 
 namespace ZooManager
 {
-    public class Cat : Animal
+    public class Cat : Animal, Prey, Predator
     {
         // Feature e //HL
         public Cat(string name)
@@ -13,12 +13,21 @@ namespace ZooManager
             reactionTime = new Random().Next(1, 6); // reaction time 1 (fast) to 5 (medium)
         }
 
+        public void AutoFlee()
+        {
+            Flee("raptor");
+        }
+        
+        public void AutoHunt()
+        {
+            DoubleHunt("mouse", "chick"); // second will hunt both mouse and chick
+        }
         public override void Activate()
         {
             base.Activate();
             Console.WriteLine("I am a cat. Meow.");
-            Flee("raptor"); // first will flee from raptor
-            DoubleHunt("mouse", "chick"); // second will hunt both mouse and chick
+            AutoFlee();
+            AutoHunt();
         }
 
         /* Note that our cat is currently not very clever about its hunting.

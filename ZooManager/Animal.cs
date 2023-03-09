@@ -1,28 +1,12 @@
 ﻿using System;
 namespace ZooManager
 {
-    public class Animal
+    public class Animal:Entity
     {
-        public string emoji;
-        public string species;
-        public string name;
-        public int reactionTime = 5; // default reaction time for animals (1 - 10)
         public int fleeReactionDistance = 1; // Defines the reaction distance for fleeing //HL
         public int huntReactionDistance = 1; // Defines the reaction distance for hunting //HL
         // Feature m //HL
-        public int turn = 0; // a new trait tracking the turns for each Animal on the board 
 
-        public Point location;
-
-        public void ReportLocation()
-        {
-            Console.WriteLine($"I am at {location.x},{location.y}");
-        }
-
-        virtual public void Activate()
-        {
-            Console.WriteLine($"Animal {name} at {location.x},{location.y} activated");
-        }
         /* Feature f //HL
          * Modified function Seek with new parameter distance to seek zone one by one 
          * and finally return a int
@@ -223,5 +207,6 @@ namespace ZooManager
                 Attack(this, Direction.right);
             }
         }
+        
     }
 }

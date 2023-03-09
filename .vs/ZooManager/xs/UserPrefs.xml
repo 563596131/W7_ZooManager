@@ -1,13 +1,13 @@
 ﻿<Properties StartupConfiguration="{DEF5AF9A-50F8-4FED-BC52-14C220FCA982}|Default">
   <MonoDevelop.Ide.ItemProperties.ZooManager PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ZooManager/Animal.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ZooManager/Prey.cs">
     <Files>
-      <File FileName="ZooManager/Pages/Index.razor" Line="139" Column="50" />
+      <File FileName="ZooManager/Pages/Index.razor" Line="140" Column="26" />
       <File FileName="ZooManager/Zone.cs" />
-      <File FileName="ZooManager/Cat.cs" />
-      <File FileName="ZooManager/Mouse.cs" />
-      <File FileName="ZooManager/Animal.cs" Line="159" Column="37" />
-      <File FileName="ZooManager/Game.cs" />
+      <File FileName="ZooManager/Cat.cs" Line="17" Column="10" />
+      <File FileName="ZooManager/Mouse.cs" Line="1" Column="1" />
+      <File FileName="ZooManager/Animal.cs" Line="156" Column="14" />
+      <File FileName="ZooManager/Game.cs" Line="101" Column="26" />
       <File FileName="ZooManager/Point.cs" />
       <File FileName="ZooManager/Program.cs" />
       <File FileName="ZooManager/App.razor" />
@@ -15,6 +15,10 @@
       <File FileName="ZooManager/Raptor.cs" />
       <File FileName="ZooManager/Bird.cs" />
       <File FileName="ZooManager/Chick.cs" />
+      <File FileName="ZooManager/Entity.cs" Line="4" Column="47" />
+      <File FileName="ZooManager/Alien.cs" Line="94" Column="23" />
+      <File FileName="ZooManager/Predator.cs" Line="3" Column="52" />
+      <File FileName="ZooManager/Prey.cs" Line="3" Column="44" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -22,7 +26,7 @@
           <Node name="ZooManager" expanded="True">
             <Node name="ZooManager" expanded="True">
               <Node name="Pages" expanded="True" />
-              <Node name="Animal.cs" selected="True" />
+              <Node name="Prey.cs" selected="True" />
             </Node>
           </Node>
         </State>
